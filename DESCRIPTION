@@ -1,0 +1,17 @@
+Package: taiacv
+Title: PKG_TITLE
+Version: 0.0.0.9000
+Authors@R: person('Taia', 'Wu', email = 'taiawu@gmail.com', role = c('cre', 'aut'))
+Description: A quick interactive visualization of my (Taia's) skills and interests as a potential Upshot fellow.
+License: What license is it under?
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.3.1.9002),
+    shinipsum,
+    shiny (>= 1.7.1),
+    shinyWidgets
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+URL: https://github.com/taiawu/taiacv
+BugReports: https://github.com/taiawu/taiacv/issues
